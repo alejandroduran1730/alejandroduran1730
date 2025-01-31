@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alejandroduran1730
-- 👀 My skills: Java, Spring Boot, Microservices, Maven, JUnit 5, Docker, JavaScript, SQL, and Linux.
-- 🌱 I’m currently learning Spring Boot, and Python.
+- 👀 My skills: Java, Spring Boot, JavaScript, Python, PostgreSQL, and Linux.
+- 🌱 I’m currently learning EVEN MORE Spring Boot.
 - 📫 How to reach me: https://www.linkedin.com/in/alejandroperezduran/
 - 😄 Pronouns: He, His, Him

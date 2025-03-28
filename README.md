@@ -1,5 +1,12 @@
 - 👋 Hi, I’m Alejandro Duran.
-- 👀 My skills: Java, Spring Boot, JavaScript, Python, PostgreSQL, and Linux.
-- 🌱 I’m currently learning EVEN MORE Spring Boot.
+- 
+- Skills:
+- Languages: Java, JavaScript, Python
+- Frameworks: Spring Boot
+- Databases: PostgreSQL, MySQL
+- Operating Systems: Linux, Windows, Mac OS.
+
+- 🌱 I’m currently: Developing a web application project.
+- 
 - 📫 How to reach me: https://www.linkedin.com/in/alejandroperezduran/
   

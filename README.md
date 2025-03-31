@@ -4,6 +4,7 @@
 - Languages: Java, JavaScript, Python
 - Frameworks: Spring Boot, Hibernate
 - Databases: PostgreSQL, MySQL
+- Architectures: Layered, Monolothic, Microservices.
 - Version Control: Git
 - Operating Systems: Linux, Windows, Mac OS.
 

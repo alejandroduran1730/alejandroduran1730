@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Alejandro Duran.
-- 
+👋 Hi, I’m Alejandro Duran.
+  
 - Skills:
-- Languages: Java, JavaScript, Python
+- Languages: Java
 - Frameworks: Spring Boot, Hibernate
 - Databases: PostgreSQL, MySQL
-- Architectures: Layered, Monolothic, Microservices.
+- Architectures: Layered, Microservices.
 - Version Control: Git
-- Operating Systems: Linux, Windows, Mac OS.
+- Operating Systems: Linux, Windows, macOS.
 
 
-- 🌱 I’m currently: Developing a web application project.
+- 🌱 I’m currently: Sharping skills in DSA.
 - 📫 How to reach me: https://www.linkedin.com/in/alejandroperezduran/
